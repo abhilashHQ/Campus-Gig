@@ -1,6 +1,6 @@
 # Campus GIG
 
-A monorepo implementation of the Campus GIG platform described in [agents.md](/C:/Users/abhii/Desktop/Projects/SRP/agents.md).
+A monorepo implementation of the Campus GIG platform described in [agents.md](agents.md).
 
 ## Workspaces
 
